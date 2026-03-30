@@ -2,7 +2,7 @@
 This project goal is to provide easy and simple paper wallet offline for Cardano.
 Preview here : https://barbedouce7.github.io/bip39-cardano/
 ```
-git clone https://github.com/whosbax/bip39-cardano
+git clone https://github.com/Barbedouce7/bip39-cardano
 cd bip39-cardano 
 python3 -m http.server 80
 ```
